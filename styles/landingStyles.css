@@ -4,9 +4,16 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration-color: brown;
 }
-
+.card {
+  height: 390px;
+  width: 500px;
+  margin-top: 50px;
+  background-color: blueviolet;
+  text-underline-position: below;
+}
 .akan-card {
   height: 400px;
   width: 500px;
