@@ -1,8 +1,5 @@
 # Generate Akan Name 
 #### Web app that generates an Akan name based on the date of birth and gender by determining the day one was born, 30/09/2022
-![alt text](images/app.png)
-
-![alt text](images/result.png)
 
 ## Author
 George Macharia 
