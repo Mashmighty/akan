@@ -36,7 +36,7 @@ Setup and Run
 
 ## Run Application
 
-* To view my application online, follow this link **https://rkinyua5.github.io**
+* To view my application online, follow this link **https://mashmighty.github.io/akan/**
 
 ## Technologies
 
