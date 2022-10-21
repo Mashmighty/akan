@@ -1,5 +1,5 @@
 .wrapper {
-  height: 90vh;
+  height: 100vh;
   background-image: url("../assets/images/background.jpg");
   background-position: center;
   background-size: cover;
@@ -15,7 +15,7 @@
   text-underline-position: below;
 }
 .akan-card {
-  height: 400px;
+  height: 410px;
   width: 500px;
   margin-top: 50px;
   background-color: blueviolet;
@@ -26,6 +26,7 @@
 .heading {
   margin-top: 50px;
 }
+
 footer {
   background-color: bisque;
   text-align: justify
