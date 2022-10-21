@@ -8,17 +8,17 @@
   text-decoration-color: brown;
 }
 .card {
-  height: 390px;
+  height: 400px;
   width: 500px;
   margin-top: 50px;
-  background-color: blueviolet;
+  background-color: rgb(226, 43, 171);
   text-underline-position: below;
 }
 .akan-card {
   height: 410px;
   width: 500px;
   margin-top: 50px;
-  background-color: blueviolet;
+  background-color: rgb(226, 43, 171);
 }
 .right {
   height: 100vh;
